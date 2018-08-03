@@ -1,0 +1,17 @@
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\DownPaymentLogic.dll
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\DownPaymentLogic.pdb
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\ConverterLib_x64.dll
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\SAPApi.pdb
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.csprojResolveAssemblyReference.cache
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.dll
+C:\Users\blatsabidze\Desktop\DPM Add_ons\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.pdb
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\DownPaymentLogic.dll
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\DownPaymentLogic.pdb
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\SAPApi.dll
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\SAPBusinessOneSDK.dll
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\ConverterLib_x64.dll
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\bin\Debug\SAPApi.pdb
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.dll
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.pdb
+D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.csprojResolveAssemblyReference.cache

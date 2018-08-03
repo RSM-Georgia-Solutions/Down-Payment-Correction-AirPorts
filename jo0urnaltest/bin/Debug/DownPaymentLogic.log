@@ -1,0 +1,348 @@
+﻿2018-05-14 18:10:53.867 DownPaymentLogic.log is created.
+2018-05-15 15:16:54.727 [INFO]    Net Amount To Drow = 1.00
+2018-05-15 15:16:54.816 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:16:54.826 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:16:54.841 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:16:54.847 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:16:54.853 [INFO]    DataForCalculation Values DownPaymentAmount  = 
+2018-05-15 15:16:54.859 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:16:54.866 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:16:54.874 [INFO]    DataForCalculation Values TotalInv  = 14.16
+2018-05-15 15:16:54.880 [INFO]    DataForCalculation Values RateInv  = 2
+2018-05-15 15:16:54.886 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:16:54.892 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:16:54.898 [INFO]    DataForCalculation Values FormUIdDps  = F_55
+2018-05-15 15:16:54.904 [INFO]    DataForCalculation Values GlobalRate  = 
+2018-05-15 15:16:54.910 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:16:54.916 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:16:55.305 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2.00 paidAmountDpFc = 1.00 totalInv = 14.16GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:16:55.312 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2.00 paidAmountDpFc = 1.00 totalInv = 14.16GlobalRate = 2 is Calculated  = True
+2018-05-15 15:16:55.581 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 2  
+2018-05-15 15:17:14.818 [INFO]    Net Amount To Drow = 1.00
+2018-05-15 15:17:14.902 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:17:14.909 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:17:14.922 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:17:14.930 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:17:14.937 [INFO]    DataForCalculation Values DownPaymentAmount  = 1.00 EUR
+2018-05-15 15:17:14.944 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:17:14.951 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:17:14.957 [INFO]    DataForCalculation Values TotalInv  = 14.16
+2018-05-15 15:17:14.964 [INFO]    DataForCalculation Values RateInv  = 2
+2018-05-15 15:17:14.971 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:17:14.977 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:17:14.985 [INFO]    DataForCalculation Values FormUIdDps  = F_57
+2018-05-15 15:17:14.991 [INFO]    DataForCalculation Values GlobalRate  = 2
+2018-05-15 15:17:14.999 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:17:15.005 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:17:15.194 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2.00 paidAmountDpFc = 1.00 totalInv = 14.16GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:15.207 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2.00 paidAmountDpFc = 1.00 totalInv = 14.16GlobalRate = 2 is Calculated  = True
+2018-05-15 15:17:15.475 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 2  
+2018-05-15 15:17:29.099 [INFO]    Net Amount To Drow = 21.00
+2018-05-15 15:17:29.169 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:17:29.176 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:17:29.184 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:17:29.190 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:17:29.197 [INFO]    DataForCalculation Values DownPaymentAmount  = 1.00 EUR
+2018-05-15 15:17:29.204 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:17:29.210 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:17:29.217 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:17:29.224 [INFO]    DataForCalculation Values RateInv  = 2
+2018-05-15 15:17:29.231 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:17:29.237 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:17:29.244 [INFO]    DataForCalculation Values FormUIdDps  = F_59
+2018-05-15 15:17:29.250 [INFO]    DataForCalculation Values GlobalRate  = 2
+2018-05-15 15:17:29.258 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:17:29.265 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:17:29.442 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 42.00 paidAmountDpFc = 21.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:29.450 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 42.00 paidAmountDpFc = 21.00 totalInv = 130.98GlobalRate = 2 is Calculated  = True
+2018-05-15 15:17:29.709 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 2  
+2018-05-15 15:17:46.830 [INFO]    Net Amount To Drow = 21.00
+2018-05-15 15:17:46.919 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:17:46.926 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:17:46.933 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:17:46.940 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:17:46.947 [INFO]    DataForCalculation Values DownPaymentAmount  = 21.00 EUR
+2018-05-15 15:17:46.954 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:17:46.961 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:17:46.968 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:17:46.976 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:17:46.982 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:17:46.989 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:17:46.996 [INFO]    DataForCalculation Values FormUIdDps  = F_64
+2018-05-15 15:17:47.003 [INFO]    DataForCalculation Values GlobalRate  = 2
+2018-05-15 15:17:47.010 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:17:47.017 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:17:47.200 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 42.00 paidAmountDpFc = 21.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:47.208 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 42.00 paidAmountDpFc = 21.00 totalInv = 130.98GlobalRate = 3.259505 is Calculated  = True
+2018-05-15 15:17:47.565 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.259505  
+2018-05-15 15:17:52.462 [INFO]    Net Amount To Drow = 1,000.00
+2018-05-15 15:17:52.542 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:17:52.550 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:17:52.557 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:17:52.564 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:17:52.571 [INFO]    DataForCalculation Values DownPaymentAmount  = 21.00 EUR
+2018-05-15 15:17:52.579 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:17:52.586 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:17:52.593 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:17:52.601 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:17:52.609 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:17:52.617 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:17:52.624 [INFO]    DataForCalculation Values FormUIdDps  = F_66
+2018-05-15 15:17:52.632 [INFO]    DataForCalculation Values GlobalRate  = 3.259505
+2018-05-15 15:17:52.640 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:17:52.649 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:17:52.977 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2000.00 paidAmountDpFc = 1000.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:52.985 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2000.00 paidAmountDpFc = 1000.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:58.411 [INFO]    Net Amount To Drow = 52,817.00
+2018-05-15 15:17:58.471 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:17:58.478 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:17:58.487 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:17:58.494 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:17:58.502 [INFO]    DataForCalculation Values DownPaymentAmount  = 1,000.00 EUR
+2018-05-15 15:17:58.510 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:17:58.517 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:17:58.525 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:17:58.533 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:17:58.542 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:17:58.549 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:17:58.557 [INFO]    DataForCalculation Values FormUIdDps  = F_68
+2018-05-15 15:17:58.565 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 15:17:58.573 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:17:58.580 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:17:58.947 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:17:58.955 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:04.967 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:04.975 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:16.621 [INFO]    Net Amount To Drow = 52,817.00
+2018-05-15 15:18:16.694 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:18:16.703 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:18:16.712 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:18:16.719 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:18:16.726 [INFO]    DataForCalculation Values DownPaymentAmount  = 52,817.00 EUR
+2018-05-15 15:18:16.734 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:18:16.742 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:18:16.751 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:18:16.759 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:18:16.767 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:18:16.775 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:18:16.784 [INFO]    DataForCalculation Values FormUIdDps  = F_71
+2018-05-15 15:18:16.793 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 15:18:16.804 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:18:16.813 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:18:16.990 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:17.000 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:40.227 [INFO]    Net Amount To Drow = 52,817.00
+2018-05-15 15:18:40.310 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:18:40.318 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:18:40.327 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:18:40.336 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:18:40.344 [INFO]    DataForCalculation Values DownPaymentAmount  = 52,817.00 EUR
+2018-05-15 15:18:40.352 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:18:40.359 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:18:40.369 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:18:40.377 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:18:40.387 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:18:40.396 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:18:40.405 [INFO]    DataForCalculation Values FormUIdDps  = F_73
+2018-05-15 15:18:40.414 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 15:18:40.421 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:18:40.430 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:18:40.602 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:40.613 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 316902.00 paidAmountDpFc = 52817.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:51.079 [INFO]    Net Amount To Drow = 52,817.00
+2018-05-15 15:18:51.115 [INFO]    Net Amount To Drow = 391.00
+2018-05-15 15:18:51.187 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:18:51.196 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:18:51.203 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:18:51.212 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:18:51.220 [INFO]    DataForCalculation Values DownPaymentAmount  = 52,817.00 EUR
+2018-05-15 15:18:51.230 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:18:51.238 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:18:51.246 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:18:51.254 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:18:51.262 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:18:51.273 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:18:51.283 [INFO]    DataForCalculation Values FormUIdDps  = F_75
+2018-05-15 15:18:51.284 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 15:18:51.295 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:18:51.305 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:18:51.641 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 317684.00 paidAmountDpFc = 53208.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:18:51.649 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 317684.00 paidAmountDpFc = 53208.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:01.487 [INFO]    Net Amount To Drow = 1.00
+2018-05-15 15:19:01.534 [INFO]    Net Amount To Drow = 3.00
+2018-05-15 15:19:01.601 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:19:01.609 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:19:01.618 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:19:01.626 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:19:01.635 [INFO]    DataForCalculation Values DownPaymentAmount  = 53,208.00 EUR
+2018-05-15 15:19:01.644 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:19:01.652 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:19:01.661 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:19:01.669 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:19:01.678 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:19:01.686 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:19:01.694 [INFO]    DataForCalculation Values FormUIdDps  = F_77
+2018-05-15 15:19:01.704 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 15:19:01.714 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:19:01.722 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:19:02.078 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 12.00 paidAmountDpFc = 4.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:02.087 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 12.00 paidAmountDpFc = 4.00 totalInv = 130.98GlobalRate = 3.484730 is Calculated  = True
+2018-05-15 15:19:02.552 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.484730  
+2018-05-15 15:19:12.821 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:19:12.831 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:19:12.840 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:19:12.849 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:19:12.858 [INFO]    DataForCalculation Values DownPaymentAmount  = 4.00 EUR
+2018-05-15 15:19:12.867 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:19:12.876 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:19:12.885 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:19:12.894 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:19:12.902 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:19:12.911 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:19:12.920 [INFO]    DataForCalculation Values FormUIdDps  = F_81
+2018-05-15 15:19:12.929 [INFO]    DataForCalculation Values GlobalRate  = 3.484730
+2018-05-15 15:19:12.938 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:19:12.947 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:19:12.955 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 0 paidAmountDpFc = 0 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:12.964 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 0 paidAmountDpFc = 0 totalInv = 130.98GlobalRate = 3.5 is Calculated  = True
+2018-05-15 15:19:13.162 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.5  
+2018-05-15 15:19:21.589 [INFO]    Net Amount To Drow = 23.00
+2018-05-15 15:19:21.625 [INFO]    Net Amount To Drow = 12.00
+2018-05-15 15:19:21.704 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:19:21.713 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:19:21.721 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:19:21.730 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:19:21.738 [INFO]    DataForCalculation Values DownPaymentAmount  = 
+2018-05-15 15:19:21.748 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:19:21.758 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:19:21.766 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:19:21.775 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:19:21.784 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:19:21.794 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:19:21.803 [INFO]    DataForCalculation Values FormUIdDps  = F_83
+2018-05-15 15:19:21.812 [INFO]    DataForCalculation Values GlobalRate  = 3.5
+2018-05-15 15:19:21.821 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:19:21.831 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:19:22.196 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 70.00 paidAmountDpFc = 35.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:22.204 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 70.00 paidAmountDpFc = 35.00 totalInv = 130.98GlobalRate = 3.099175 is Calculated  = True
+2018-05-15 15:19:22.569 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.099175  
+2018-05-15 15:19:33.232 [INFO]    Net Amount To Drow = 12.00
+2018-05-15 15:19:33.280 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:19:33.289 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:19:33.300 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:19:33.309 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:19:33.318 [INFO]    DataForCalculation Values DownPaymentAmount  = 35.00 EUR
+2018-05-15 15:19:33.327 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:19:33.336 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:19:33.345 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:19:33.353 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:19:33.363 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:19:33.375 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:19:33.383 [INFO]    DataForCalculation Values FormUIdDps  = F_85
+2018-05-15 15:19:33.391 [INFO]    DataForCalculation Values GlobalRate  = 3.099175
+2018-05-15 15:19:33.402 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:19:33.411 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:19:33.587 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 36.093600 paidAmountDpFc = 12.00 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:33.597 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 36.093600 paidAmountDpFc = 12.00 totalInv = 130.98GlobalRate = 3.454906 is Calculated  = True
+2018-05-15 15:19:33.982 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.454906  
+2018-05-15 15:19:43.405 [INFO]    Net Amount To Drow = 12.00
+2018-05-15 15:19:43.456 [INFO]    Net Amount To Drow = 1.60
+2018-05-15 15:19:43.514 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 15:19:43.522 [INFO]    DataForCalculation Values BusinesPartnerName  = C0001
+2018-05-15 15:19:43.531 [INFO]    DataForCalculation Values DocNum  = 738
+2018-05-15 15:19:43.540 [INFO]    DataForCalculation Values CardCode  = C0001
+2018-05-15 15:19:43.549 [INFO]    DataForCalculation Values DownPaymentAmount  = 12.00 EUR
+2018-05-15 15:19:43.558 [INFO]    DataForCalculation Values FormTypex  = 133
+2018-05-15 15:19:43.567 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 15:19:43.577 [INFO]    DataForCalculation Values TotalInv  = 130.98
+2018-05-15 15:19:43.584 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 15:19:43.593 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 15:19:43.600 [INFO]    DataForCalculation Values FormUIdInv  = F_51
+2018-05-15 15:19:43.609 [INFO]    DataForCalculation Values FormUIdDps  = F_87
+2018-05-15 15:19:43.616 [INFO]    DataForCalculation Values GlobalRate  = 3.454906
+2018-05-15 15:19:43.624 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 15:19:43.632 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 15:19:44.155 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:44.164 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 3.448798 is Calculated  = True
+2018-05-15 15:19:44.524 [INFO]    Activation After A/R Invoice IsCalculated = False Rate = 3.448798  
+2018-05-15 15:19:46.710 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:19:46.718 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 3.448798 is Calculated  = True
+2018-05-15 15:20:01.688 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 15:20:01.696 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 40.893600 paidAmountDpFc = 13.60 totalInv = 130.98GlobalRate = 3.448798 is Calculated  = True
+2018-05-15 16:08:22.047 [INFO]    Net Amount To Drow = 980.00
+2018-05-15 16:08:22.187 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 16:08:22.196 [INFO]    DataForCalculation Values BusinesPartnerName  = S0001
+2018-05-15 16:08:22.206 [INFO]    DataForCalculation Values DocNum  = 92
+2018-05-15 16:08:22.213 [INFO]    DataForCalculation Values CardCode  = S0001
+2018-05-15 16:08:22.222 [INFO]    DataForCalculation Values DownPaymentAmount  = 
+2018-05-15 16:08:22.232 [INFO]    DataForCalculation Values FormTypex  = 141
+2018-05-15 16:08:22.246 [INFO]    DataForCalculation Values PostingDate  = 01.01.0001 00:00:00
+2018-05-15 16:08:22.255 [INFO]    DataForCalculation Values TotalInv  = 0
+2018-05-15 16:08:22.264 [INFO]    DataForCalculation Values RateInv  = 0
+2018-05-15 16:08:22.273 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 16:08:22.282 [INFO]    DataForCalculation Values FormUIdInv  = F_97
+2018-05-15 16:08:22.294 [INFO]    DataForCalculation Values FormUIdDps  = F_101
+2018-05-15 16:08:22.304 [INFO]    DataForCalculation Values GlobalRate  = 
+2018-05-15 16:08:22.312 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 16:08:22.322 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 16:08:23.172 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 0GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:08:23.182 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 0GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:08:34.727 [INFO]    Net Amount To Drow = 0.20
+2018-05-15 16:08:34.761 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 16:08:34.770 [INFO]    DataForCalculation Values BusinesPartnerName  = S0001
+2018-05-15 16:08:34.780 [INFO]    DataForCalculation Values DocNum  = 92
+2018-05-15 16:08:34.791 [INFO]    DataForCalculation Values CardCode  = S0001
+2018-05-15 16:08:34.801 [INFO]    DataForCalculation Values DownPaymentAmount  = 980.00 EUR
+2018-05-15 16:08:34.810 [INFO]    DataForCalculation Values FormTypex  = 141
+2018-05-15 16:08:34.819 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 16:08:34.827 [INFO]    DataForCalculation Values TotalInv  = 1.18
+2018-05-15 16:08:34.836 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 16:08:34.845 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 16:08:34.853 [INFO]    DataForCalculation Values FormUIdInv  = F_97
+2018-05-15 16:08:34.862 [INFO]    DataForCalculation Values FormUIdDps  = F_103
+2018-05-15 16:08:34.870 [INFO]    DataForCalculation Values GlobalRate  = 1.0000
+2018-05-15 16:08:34.871 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 16:08:34.881 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 16:08:35.206 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 0.5651932203389830508474576271 paidAmountDpFc = 0.20 totalInv = 1.18GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:08:35.216 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 0.5651932203389830508474576271 paidAmountDpFc = 0.20 totalInv = 1.18GlobalRate = 3.385757 is Calculated  = True
+2018-05-15 16:08:35.660 [INFO]    Activation After A/P Invoice IsCalculated = False Rate = 3.385757  
+2018-05-15 16:09:32.859 [INFO]    Net Amount To Drow = 0.20
+2018-05-15 16:09:32.882 [INFO]    DataForCalculation Values BplName  = Gldani
+2018-05-15 16:09:32.894 [INFO]    DataForCalculation Values BusinesPartnerName  = S0001
+2018-05-15 16:09:32.905 [INFO]    DataForCalculation Values DocNum  = 899
+2018-05-15 16:09:32.920 [INFO]    DataForCalculation Values CardCode  = S0001
+2018-05-15 16:09:32.930 [INFO]    DataForCalculation Values DownPaymentAmount  = 0.20 EUR
+2018-05-15 16:09:32.930 [INFO]    DataForCalculation Values FormTypex  = 141
+2018-05-15 16:09:32.939 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 16:09:32.949 [INFO]    DataForCalculation Values TotalInv  = 1.18
+2018-05-15 16:09:32.958 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 16:09:32.967 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 16:09:32.977 [INFO]    DataForCalculation Values FormUIdInv  = F_97
+2018-05-15 16:09:32.987 [INFO]    DataForCalculation Values FormUIdDps  = F_109
+2018-05-15 16:09:32.996 [INFO]    DataForCalculation Values GlobalRate  = 3.385757
+2018-05-15 16:09:33.005 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 16:09:33.016 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 16:09:33.324 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 0.5651932203389830508474576271 paidAmountDpFc = 0.20 totalInv = 1.18GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:09:33.333 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 0.5651932203389830508474576271 paidAmountDpFc = 0.20 totalInv = 1.18GlobalRate = 3.385757 is Calculated  = True
+2018-05-15 16:09:33.687 [INFO]    Activation After A/P Invoice IsCalculated = False Rate = 3.385757  
+2018-05-15 16:15:56.981 [INFO]    Net Amount To Drow = 980.00
+2018-05-15 16:15:57.025 [INFO]    DataForCalculation Values BplName  = IG Development Georgia
+2018-05-15 16:15:57.046 [INFO]    DataForCalculation Values BusinesPartnerName  = S0001
+2018-05-15 16:15:57.054 [INFO]    DataForCalculation Values DocNum  = 1001
+2018-05-15 16:15:57.062 [INFO]    DataForCalculation Values CardCode  = S0001
+2018-05-15 16:15:57.071 [INFO]    DataForCalculation Values DownPaymentAmount  = 
+2018-05-15 16:15:57.079 [INFO]    DataForCalculation Values FormTypex  = 141
+2018-05-15 16:15:57.087 [INFO]    DataForCalculation Values PostingDate  = 15.05.2018 00:00:00
+2018-05-15 16:15:57.095 [INFO]    DataForCalculation Values TotalInv  = 24.78
+2018-05-15 16:15:57.103 [INFO]    DataForCalculation Values RateInv  = 3.5
+2018-05-15 16:15:57.111 [INFO]    DataForCalculation Values DocCurrency  = EUR
+2018-05-15 16:15:57.119 [INFO]    DataForCalculation Values FormUIdInv  = F_133
+2018-05-15 16:15:57.127 [INFO]    DataForCalculation Values FormUIdDps  = F_137
+2018-05-15 16:15:57.134 [INFO]    DataForCalculation Values GlobalRate  = 
+2018-05-15 16:15:57.142 [INFO]    DataForCalculation Values IsCalculated  = False
+2018-05-15 16:15:57.149 [INFO]    DataForCalculation Values NetAmountsForDownPayment  = System.Collections.Generic.List`1[System.Collections.Generic.Dictionary`2[System.String,System.String]]
+2018-05-15 16:15:57.464 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 24.78GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:15:57.472 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 24.78GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:16:29.592 [INFO]    Before Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 24.78GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:16:29.602 [INFO]    After Calculation Weighted Rate  paidAmountDpLc = 2769.4467796610169491525423729 paidAmountDpFc = 980.00 totalInv = 24.78GlobalRate = 1.0000 is Calculated  = False
+2018-05-15 16:19:55.979 [ERROR]   Object reference not set to an instance of an object.
