@@ -15,3 +15,9 @@ D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentC
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.dll
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.pdb
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\DownPaymentLogic\obj\Debug\DownPaymentLogic.csprojResolveAssemblyReference.cache
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\bin\Debug\DownPaymentLogic.dll
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\bin\Debug\DownPaymentLogic.pdb
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\obj\Debug\DownPaymentLogic.dll
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\obj\Debug\DownPaymentLogic.pdb
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\DownPaymentLogic\obj\Debug\DownPaymentLogic.csprojResolveAssemblyReference.cache

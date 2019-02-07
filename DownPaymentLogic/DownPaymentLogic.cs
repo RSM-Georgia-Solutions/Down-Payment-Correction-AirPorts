@@ -144,6 +144,7 @@ namespace DownPaymentLogic
                 paidAmountDpLc += dif;
                 var rate = paidAmountDpLc / totalInvFc;
                 //isRateCalculated = true;
+
                 globalRate = Math.Round(rate, 6).ToString();
             }
         }
@@ -514,7 +515,7 @@ namespace DownPaymentLogic
             vJE.Lines.Add();
 
             vJE.Lines.BPLID = BPLID;
-            vJE.Lines.ControlAccount = debitCode;
+            vJE.Lines.AccountCode = debitCode;
             vJE.Lines.ShortName = code;
             vJE.Lines.Credit = 0;
             vJE.Lines.Debit = amount;
@@ -670,14 +671,14 @@ namespace DownPaymentLogic
                 {
                     if (account == ExchangeGain)
                     {
-                        AddJournalEntryCredit(_comp, BpControlAcc, ExchangeGain,
+                        AddJournalEntryCredit(_comp,  BpControlAcc, ExchangeGain,
                             Convert.ToDouble(objRS.Fields.Item("Credit").Value.ToString()), series, docNumber, businesPartnerCardCode, docDate,
                             bplID);
 
                     }
                     else if (account == ExchangeLoss)
                     {
-                        AddJournalEntryDebit(_comp, BpControlAcc, ExchangeLoss,
+                        AddJournalEntryDebit(_comp, ExchangeLoss, BpControlAcc, 
                             Convert.ToDouble(objRS.Fields.Item("Debit").Value.ToString()), series, docNumber, businesPartnerCardCode, docDate, bplID);
                     }
                 }
@@ -685,7 +686,7 @@ namespace DownPaymentLogic
                 {
                     if (account == ExchangeGain)
                     {
-                        AddJournalEntryCredit(_comp, ExchangeGain, BpControlAcc,
+                        AddJournalEntryCredit(_comp,  BpControlAcc, ExchangeGain,
                             Convert.ToDouble(objRS.Fields.Item("Credit").Value.ToString()), series, docNumber, businesPartnerCardCode, docDate,
                             bplID);
                     }

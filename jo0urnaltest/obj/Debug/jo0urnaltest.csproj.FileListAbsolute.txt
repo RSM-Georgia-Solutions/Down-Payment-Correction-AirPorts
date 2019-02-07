@@ -21,3 +21,12 @@ D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentC
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\jo0urnaltest\bin\Debug\jo0urnaltest.exe.config
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\jo0urnaltest\bin\Debug\jo0urnaltest.exe
 D:\Users\nkurdadze\Desktop\DPCorrection Code\DP Correction AirPorts\DownPaymentCorrection\jo0urnaltest\jo0urnaltest\bin\Debug\jo0urnaltest.pdb
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\jo0urnaltest.exe.config
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\jo0urnaltest.exe
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\jo0urnaltest.pdb
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\DownPaymentLogic.dll
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\SAPBusinessOneSDK.dll
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\bin\Debug\DownPaymentLogic.pdb
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\obj\Debug\jo0urnaltest.csprojResolveAssemblyReference.cache
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\obj\Debug\jo0urnaltest.exe
+C:\Users\nkurdadze\Source\Repos\Down-Payment-Correction-AirPorts2\jo0urnaltest\obj\Debug\jo0urnaltest.pdb
